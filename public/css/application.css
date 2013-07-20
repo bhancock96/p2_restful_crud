@@ -7,3 +7,7 @@
 th {
   text-align: left;
 }
+
+.note_content {
+  list-style-type: none;
+}
